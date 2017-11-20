@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "29471288434",
+    "project_id": "bikers-trip"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29471288434:android:08e045c646087a35",
+        "android_client_info": {
+          "package_name": "com.example.roman.bikerstrip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29471288434-q7p13j9s3gftv7eklna05lvcbh0tksc4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.roman.bikerstrip",
+            "certificate_hash": "BAF588A5622574EC935FCA56D16A39A5C9C6DD73"
+          }
+        },
+        {
+          "client_id": "29471288434-jhgr3cok98ld6jea7ig92idrv6t05lru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA73d8HvXBnLIU6slRbNWCPJRtyeAt-Js8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
